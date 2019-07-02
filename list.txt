@@ -30,7 +30,10 @@ chalkdesign.co.za
 click-start-and-go.co.za
 eht.co.za
 epscouriers.co.za
-http://it.sh.cn
-http://ida.esac.esa.int
-http://telephone.sirim.my
-http://ricestat.irri.org
+it.sh.cn
+ida.esac.esa.int
+telephone.sirim.my
+ricestat.irri.org
+gojo.co.za
+schindler.com
+payworks.fnb.co.za
