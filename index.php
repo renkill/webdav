@@ -1,32 +1,25 @@
-
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Hacked By Rekill</title>
-	<link href="https://fonts.googleapis.com/css?family=Fjalla+One|Pacifico|Passion+One&display=swap" rel="stylesheet">
-	<meta charset="utf-8">
-	
-	<style type="text/css">
-	h1 {color: red ; font-family: 'Fjalla One', sans-serif; text-align: center; }	
-	body {background: black}
-	p {color: red ; font-family: 'Fjalla One', sans-serif; text-align: center;font-size: 29px}
-	p.as {color: white}
-
-
-	</style>
-
-
-</head>
-      
-<body>
-      <embed src="https://instaud.io/_/3SDf.mp3" width="0" height="0">
-
-<h1>Pwned por Renkill</h1>
-<p align="center" class="as"><img src="
-https://3.bp.blogspot.com/-6VmyL5f-6xk/W_uQsuHTyLI/AAAAAAABrk8/YskARyj0GYUalGWfuiekRBF17gAKvla_QCK4BGAYYCw/s640/qjEARp.gif" border="1">
-<p>Quem nao faz quer falar de quem fez</p>
+     <title>[+]Exploited sucess BY Renkill[+]</title>
+	 <link href="https://fonts.googleapis.com/css?family=Fjalla+One|Pacifico|Passion+One&display=swap" rel="stylesheet">
+	 <meta charset="utf-8">
+	 
+	 <style type="text/css">
+	h1 {color: Green ; font-family: 'Fjalla One', sans-serif; text-align: center; }	
+	h2 {color: Blue ; font-family: 'Fjalla One', sans-serif; text-align:center;}
+        h3 {color: red ; font-family: 'Fjalla One', sans-serif; text-align:center;}
+	p {color: pink ; font-family: 'Fjalla One', sans-serif; text-align: center;font-size: 29px}
+	p.as {color: Orange}
+	 </style>
+	 
+<body background="https://media0.giphy.com/media/jdNHexPaOvgn6/giphy.gif"/>
+<h1>[+]Exploited sucesso by Renkill[+]</h1>
+<center><font size="6" style="color: aqua;text-shadow: 0px 1px 12px lime; face=" lora"="" class="blink">Nos nao sabemos, oque fazer entao invadimos sites para demonstrar um ato de justiça.</font></center>
+<p align="center"><img src="http://img.downloadwap.com/screensavers/d/new/fun/hitler-331592.gif">
+<h2>Teu dever é lutar pelo Direito, mas se um dia encontrares o Direito em conflito com a Justiça, luta pela Justiça</h2>
+<h3>Hello Admin, seu site foi Exploitado com sucesso transfering arquivos</h3>
 <hr>
-<p><marquee>Greatz:Demonsad,Nedlock,Kami,TheFox,zClient</marquee></p>
-
-
+<marquee scrollamount="10" width="630" height="20" behavior="alternate">Demonsad,Kami,Nedlock,DROOGXK,Floyd</marquee>
+</body>
 </html>
